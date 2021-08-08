@@ -14,9 +14,7 @@ This particular project is to help a large company Pewlett Hackard determine the
 
 ![staff](https://user-images.githubusercontent.com/84931545/128621848-dcdc2562-5292-4f3c-abdb-76811be55e5a.PNG)
 
-
-
-- Observing the retiring_titles table, one can see that retiring employees holding Senior titles such as Senior Engineer and Senior Staff occupy 63.7% of the retiring employees.
+- Observing the retiring_titles table, one can see that retiring employees holding Senior titles such as Senior Engineer and Senior Staff occupy majority of the retiring employees (63.7%).
 
 - For those who are eligible for mentorship programs, more than half are from engineer and senior staff positions. 
 
@@ -29,7 +27,6 @@ This particular project is to help a large company Pewlett Hackard determine the
 - There will be a total of 90398 roles to fill as the "silver tsunami" begins to make an impact! Additional queries on retiring_titles provided insight into how many roles will need to be filled.
 
 ![Silver](https://user-images.githubusercontent.com/84931545/128621883-d0c1dcf8-63ec-4dd1-b236-75d717191348.PNG)
-
 
 - The question of whether there will be enough qualified, retirement-ready employees in each department to mentor the next generation is answered by queries on the mentorship_eligibilty table! There are enough retirement-ready employees for every single department to mentor the next generation of Pewlett Hackard employees.
 
