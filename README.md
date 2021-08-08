@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Overoview of the analysis
+## Overview of the analysis
 Use Postgres database and pgadmin interface where Structured Query Language (SQL) can be used to ask questions of data and discover relationships between different data tables.
 
 This particular project is to help a large company Pewlett Hackard determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. 
