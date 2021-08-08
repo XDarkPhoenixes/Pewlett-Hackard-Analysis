@@ -178,3 +178,18 @@ WHERE (d.dept_name IN ('Sales', 'Development'))
 -- WHERE d.dept_name = 'Sales' 
 -- OR d.dept_name = 'Development'
 -- ORDER BY d.dept_name;
+
+
+-- Additional queries for Deliverable 3
+SELECT * FROM retirement_titles;
+SELECT * FROM unique_titles;
+SELECT * FROM retiring_titles;
+SELECT * FROM mentorship_eligibilty;
+
+SELECT sum(count)
+FROM retiring_titles;
+
+SELECT count(title), title
+FROM mentorship_eligibilty
+GROUP BY title
+ORDER BY COUNT(title) DESC;
