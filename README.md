@@ -38,10 +38,7 @@ This particular project is to help a large company Pewlett Hackard determine the
 ![Silver](https://user-images.githubusercontent.com/84931545/128621883-d0c1dcf8-63ec-4dd1-b236-75d717191348.PNG)
 
 
-- The question of whether there will be enough qualified, retirement-ready employees in each department to mentor the next generation is answered by queries on the mentorship_eligibilty table!
+- The question of whether there will be enough qualified, retirement-ready employees in each department to mentor the next generation is answered by queries on the mentorship_eligibilty table! There are enough retirement-ready employees for every single department to mentor the next generation of Pewlett Hackard employees.
 
 ![Mentor_titles](https://user-images.githubusercontent.com/84931545/128621885-f2daa265-3782-4f39-a5bc-3b591db8c6ce.PNG)
 ![retiring_titles](https://user-images.githubusercontent.com/84931545/128621895-3ff7a8be-a655-4df6-8bfa-750bc8b50243.PNG)
-
-
-There are enough retirement-ready employees for every single department to mentor the next generation of Pewlett Hackard employees.
