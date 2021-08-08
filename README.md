@@ -20,11 +20,7 @@ This particular project is to help a large company Pewlett Hackard determine the
 
 ![retiring_titles](https://user-images.githubusercontent.com/84931545/128621855-631ed922-cef8-4dba-b9b1-dbc48592d604.PNG)
 
-
 - For those who are eligible for mentorship programs, more than half are from engineer and senior staff positions. 
-
-![Mentor](https://user-images.githubusercontent.com/84931545/128621872-94844a91-27a1-455a-894e-09d6e626c2f0.PNG)
-
 
 - There are no managers eligible for mentorship programs; Manager title also has the least amount of retiring employees.
 
