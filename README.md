@@ -18,17 +18,14 @@ This particular project is to help a large company Pewlett Hackard determine the
 
 - Observing the retiring_titles table, one can see that retiring employees holding Senior titles such as Senior Engineer and Senior Staff occupy 63.7% of the retiring employees.
 
-![retiring_titles](https://user-images.githubusercontent.com/84931545/128621855-631ed922-cef8-4dba-b9b1-dbc48592d604.PNG)
-
 - For those who are eligible for mentorship programs, more than half are from engineer and senior staff positions. 
 
 - There are no managers eligible for mentorship programs; Manager title also has the least amount of retiring employees.
 
-![Mentor_title](https://user-images.githubusercontent.com/84931545/128621880-3854286f-ed83-49ef-a995-43ff44540b44.PNG)
+![retiring_titles](https://user-images.githubusercontent.com/84931545/128621855-631ed922-cef8-4dba-b9b1-dbc48592d604.PNG)
 
 
 ## Summary
-
 - There will be a total of 90398 roles to fill as the "silver tsunami" begins to make an impact! Additional queries on retiring_titles provided insight into how many roles will need to be filled.
 
 ![Silver](https://user-images.githubusercontent.com/84931545/128621883-d0c1dcf8-63ec-4dd1-b236-75d717191348.PNG)
